@@ -1,0 +1,10 @@
+E:\PadrõesProjeto\Singleton\bin\Debug\netcoreapp2.0\Singleton.deps.json
+E:\PadrõesProjeto\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.json
+E:\PadrõesProjeto\Singleton\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.dev.json
+E:\PadrõesProjeto\Singleton\bin\Debug\netcoreapp2.0\Singleton.dll
+E:\PadrõesProjeto\Singleton\bin\Debug\netcoreapp2.0\Singleton.pdb
+E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.csproj.CoreCompileInputs.cache
+E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfoInputs.cache
+E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfo.cs
+E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.dll
+E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.pdb

@@ -1,0 +1,10 @@
+E:\PadrõesProjeto\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.deps.json
+E:\PadrõesProjeto\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.json
+E:\PadrõesProjeto\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.dev.json
+e:\PadrõesProjeto\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.dll
+e:\PadrõesProjeto\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.pdb
+e:\PadrõesProjeto\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfo.cs
+e:\PadrõesProjeto\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.dll
+e:\PadrõesProjeto\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.pdb

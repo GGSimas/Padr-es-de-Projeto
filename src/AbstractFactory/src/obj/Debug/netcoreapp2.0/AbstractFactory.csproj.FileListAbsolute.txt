@@ -1,0 +1,10 @@
+E:\PadrõesProjeto\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.deps.json
+E:\PadrõesProjeto\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.runtimeconfig.json
+E:\PadrõesProjeto\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.runtimeconfig.dev.json
+e:\PadrõesProjeto\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.dll
+e:\PadrõesProjeto\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.pdb
+e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfo.cs
+e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.dll
+e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.pdb
