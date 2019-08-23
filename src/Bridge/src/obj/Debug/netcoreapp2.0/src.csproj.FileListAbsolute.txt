@@ -1,0 +1,10 @@
+E:\PadrõesProjeto\src\Bridge\src\bin\Debug\netcoreapp2.0\src.deps.json
+E:\PadrõesProjeto\src\Bridge\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.json
+E:\PadrõesProjeto\src\Bridge\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.dev.json
+e:\PadrõesProjeto\src\Bridge\src\bin\Debug\netcoreapp2.0\src.dll
+e:\PadrõesProjeto\src\Bridge\src\bin\Debug\netcoreapp2.0\src.pdb
+e:\PadrõesProjeto\src\Bridge\src\obj\Debug\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\src\Bridge\src\obj\Debug\netcoreapp2.0\src.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\src\Bridge\src\obj\Debug\netcoreapp2.0\src.AssemblyInfo.cs
+e:\PadrõesProjeto\src\Bridge\src\obj\Debug\netcoreapp2.0\src.dll
+e:\PadrõesProjeto\src\Bridge\src\obj\Debug\netcoreapp2.0\src.pdb
