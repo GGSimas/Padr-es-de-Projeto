@@ -8,3 +8,13 @@ E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfoInput
 E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfo.cs
 E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.dll
 E:\PadrõesProjeto\Singleton\obj\Debug\netcoreapp2.0\Singleton.pdb
+E:\PadrõesProjeto\src\Singleton\src\bin\Debug\netcoreapp2.0\Singleton.deps.json
+E:\PadrõesProjeto\src\Singleton\src\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.json
+E:\PadrõesProjeto\src\Singleton\src\bin\Debug\netcoreapp2.0\Singleton.runtimeconfig.dev.json
+e:\PadrõesProjeto\src\Singleton\src\bin\Debug\netcoreapp2.0\Singleton.dll
+e:\PadrõesProjeto\src\Singleton\src\bin\Debug\netcoreapp2.0\Singleton.pdb
+e:\PadrõesProjeto\src\Singleton\src\obj\Debug\netcoreapp2.0\Singleton.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\src\Singleton\src\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\src\Singleton\src\obj\Debug\netcoreapp2.0\Singleton.AssemblyInfo.cs
+e:\PadrõesProjeto\src\Singleton\src\obj\Debug\netcoreapp2.0\Singleton.dll
+e:\PadrõesProjeto\src\Singleton\src\obj\Debug\netcoreapp2.0\Singleton.pdb

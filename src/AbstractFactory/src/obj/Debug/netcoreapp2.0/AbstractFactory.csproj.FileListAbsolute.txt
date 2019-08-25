@@ -8,3 +8,8 @@ e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.Assem
 e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfo.cs
 e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.dll
 e:\PadrõesProjeto\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.pdb
+e:\PadrõesProjeto\src\AbstractFactory\src\obj\Debug\netcoreapp2.0\AbstractFactory.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\src\AbstractFactory\src\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\src\AbstractFactory\src\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfo.cs
+e:\PadrõesProjeto\src\AbstractFactory\src\obj\Debug\netcoreapp2.0\AbstractFactory.dll
+e:\PadrõesProjeto\src\AbstractFactory\src\obj\Debug\netcoreapp2.0\AbstractFactory.pdb

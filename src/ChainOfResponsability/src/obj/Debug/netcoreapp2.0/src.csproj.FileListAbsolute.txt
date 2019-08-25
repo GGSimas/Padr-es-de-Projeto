@@ -1,0 +1,10 @@
+E:\PadrõesProjeto\src\ChainOfResponsability\src\bin\Debug\netcoreapp2.0\src.deps.json
+E:\PadrõesProjeto\src\ChainOfResponsability\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.json
+E:\PadrõesProjeto\src\ChainOfResponsability\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.dev.json
+e:\PadrõesProjeto\src\ChainOfResponsability\src\bin\Debug\netcoreapp2.0\src.dll
+e:\PadrõesProjeto\src\ChainOfResponsability\src\bin\Debug\netcoreapp2.0\src.pdb
+e:\PadrõesProjeto\src\ChainOfResponsability\src\obj\Debug\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
+e:\PadrõesProjeto\src\ChainOfResponsability\src\obj\Debug\netcoreapp2.0\src.AssemblyInfoInputs.cache
+e:\PadrõesProjeto\src\ChainOfResponsability\src\obj\Debug\netcoreapp2.0\src.AssemblyInfo.cs
+e:\PadrõesProjeto\src\ChainOfResponsability\src\obj\Debug\netcoreapp2.0\src.dll
+e:\PadrõesProjeto\src\ChainOfResponsability\src\obj\Debug\netcoreapp2.0\src.pdb

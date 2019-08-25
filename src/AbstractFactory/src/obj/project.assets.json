@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PadrõesProjeto\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "E:\\PadrõesProjeto\\src\\AbstractFactory\\src\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "E:\\PadrõesProjeto\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "E:\\PadrõesProjeto\\src\\AbstractFactory\\src\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "e:\\PadrõesProjeto\\AbstractFactory\\obj\\",
+      "outputPath": "e:\\PadrõesProjeto\\src\\AbstractFactory\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
